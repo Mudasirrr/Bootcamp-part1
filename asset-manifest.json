@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bootcamp-part1/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Bootcamp-part1/static/js/main.f370b088.chunk.js",
+    "main.js.map": "/Bootcamp-part1/static/js/main.f370b088.chunk.js.map",
+    "runtime-main.js": "/Bootcamp-part1/static/js/runtime-main.69d7c54b.js",
+    "runtime-main.js.map": "/Bootcamp-part1/static/js/runtime-main.69d7c54b.js.map",
+    "static/js/2.8adedac1.chunk.js": "/Bootcamp-part1/static/js/2.8adedac1.chunk.js",
+    "static/js/2.8adedac1.chunk.js.map": "/Bootcamp-part1/static/js/2.8adedac1.chunk.js.map",
+    "index.html": "/Bootcamp-part1/index.html",
+    "precache-manifest.ee2c208643db642285a1b3d2dcfe0fdb.js": "/Bootcamp-part1/precache-manifest.ee2c208643db642285a1b3d2dcfe0fdb.js",
+    "service-worker.js": "/Bootcamp-part1/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Bootcamp-part1/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8adedac1.chunk.js.LICENSE.txt": "/Bootcamp-part1/static/js/2.8adedac1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69d7c54b.js",
+    "static/js/2.8adedac1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f370b088.chunk.js"
+  ]
+}
