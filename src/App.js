@@ -1,26 +1,28 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { render } from '@testing-library/react';
 
-function App() {
+
+function Programmer(props){
+
+  return(
+    <h1>{props.name}</h1>
+  )
+}
+
+class  App extends  React.Component {
+  state={
+    name:"Mudasir Hussain"
+  }
+  render(){
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Hello World</h1>
+      <Programmer name={this.state.name}/>
+      <button onClick={()=>this.setState({name:"Fayyaz Awan"})}>Change Name</button>
     </div>
   );
+  }
 }
 
 export default App;
